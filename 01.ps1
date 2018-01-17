@@ -1,4 +1,4 @@
- Write-Host -ForegroundColor Yellow "-------------------------------"
+Write-Host -ForegroundColor Yellow "-------------------------------"
 Write-Host -ForegroundColor Yellow "|Variables store your stuff   |"
 Write-Host -ForegroundColor Yellow "-------------------------------"
 Write-Host ""
